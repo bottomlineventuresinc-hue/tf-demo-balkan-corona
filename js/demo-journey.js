@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Kitchen and bath remodels, additions, and whole-home remodels. Across Corona and the Inland Empire. Alen looks at the job first and puts the price in writing.';
+            'Kitchen and bath remodels, additions, and whole-home remodels in Corona. Alen looks at the job first and puts the price in writing.';
         }
       }
     },
